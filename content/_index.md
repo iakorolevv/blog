@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Электрический пробойй
 date: 2022-10-24
 type: landing
 
@@ -8,18 +8,23 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Групповой проек. Электрический пробой
       image:
-        filename: welcome.jpg
+        filename: 
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Сайт посвящен выполнению группового проекта. 
+        
+        **Дисциплина:** Математическое моделирование
+        
+        **Тема:** Электрический пробой.
+        
+        **Выполняющие:** Королёв Иван, Мугари Абдурахим, Шуплецов Александр, Оганнисян Давит, Кудряшов Артём.
   
   - block: collection
     content:
-      title: Latest News
+      title: Последние новости
       subtitle:
       text:
       count: 5
